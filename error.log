@@ -1,0 +1,722 @@
+
+2015-05-24 15:09:46
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/index.php(108): index->_sanitizePath(\'plugins/WUC/set...\')
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(35): index->_includeFile(\'plugins/WUC/set...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(188): index->__construct()
+#3 {main}'
+----------------
+2015-05-24 15:09:49
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/index.php(108): index->_sanitizePath(\'plugins/WUC/set...\')
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(35): index->_includeFile(\'plugins/WUC/set...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(188): index->__construct()
+#3 {main}'
+----------------
+2015-05-24 15:09:58
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/index.php(108): index->_sanitizePath(\'plugins/WUC/set...\')
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(35): index->_includeFile(\'plugins/WUC/set...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(188): index->__construct()
+#3 {main}'
+----------------
+2015-05-24 16:09:10
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/index.php(114): index->_sanitizePath(\'plugins/WUC/WUC...\')
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(41): index->_includeFile(\'plugins/WUC/WUC...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(194): index->__construct()
+#3 {main}'
+----------------
+2015-05-24 16:59:09
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/index.php(114): index->_sanitizePath(\'plugins/WUC/dow...\')
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(41): index->_includeFile(\'plugins/WUC/dow...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(194): index->__construct()
+#3 {main}'
+----------------
+2015-05-24 19:57:33
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/index.php(114): index->_sanitizePath(\'plugins/WUC/kno...\')
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(41): index->_includeFile(\'plugins/WUC/kno...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(194): index->__construct()
+#3 {main}'
+----------------
+2015-05-24 19:58:38
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/index.php(114): index->_sanitizePath(\'plugins/WUC/kno...\')
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(41): index->_includeFile(\'plugins/WUC/kno...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(194): index->__construct()
+#3 {main}'
+----------------
+2015-05-24 19:58:44
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/index.php(114): index->_sanitizePath(\'plugins/WUC/kno...\')
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(41): index->_includeFile(\'plugins/WUC/kno...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(194): index->__construct()
+#3 {main}'
+----------------
+2015-05-24 19:58:58
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/index.php(114): index->_sanitizePath(\'plugins/WUC/kno...\')
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(41): index->_includeFile(\'plugins/WUC/kno...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(194): index->__construct()
+#3 {main}'
+----------------
+2015-05-24 20:04:01
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/index.php(114): index->_sanitizePath(\'plugins/WUC/set...\')
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(41): index->_includeFile(\'plugins/WUC/set...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(194): index->__construct()
+#3 {main}'
+----------------
+2015-05-25 02:47:36
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/index.php(114): index->_sanitizePath(\'plugins/WUC/pag...\')
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(41): index->_includeFile(\'plugins/WUC/pag...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(225): index->__construct()
+#3 {main}'
+----------------
+2015-05-25 13:06:10
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (Linux; Android 5.0.2; A0001 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile Safari/537.36
+Template Not Set
+'#0 /home/tom/code/websiteunderconstruction.dev/index.php(102): index->_getTemplateDirectory()
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(114): index->_sanitizePath(\'uc.jpg\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(41): index->_includeFile(\'uc.jpg\')
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(225): index->__construct()
+#4 {main}'
+----------------
+2015-05-25 13:06:10
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (Linux; Android 5.0.2; A0001 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile Safari/537.36
+Template Not Set
+'#0 /home/tom/code/websiteunderconstruction.dev/index.php(102): index->_getTemplateDirectory()
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(114): index->_sanitizePath(\'uc.jpg\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(41): index->_includeFile(\'uc.jpg\')
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(225): index->__construct()
+#4 {main}'
+----------------
+2015-05-25 13:27:54
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/index.php(114): index->_sanitizePath(\'vendor/bootstra...\')
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(41): index->_includeFile(\'vendor/bootstra...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(225): index->__construct()
+#3 {main}'
+----------------
+2015-05-25 13:32:02
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/index.php(114): index->_sanitizePath(\'vendor/bootstra...\')
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(41): index->_includeFile(\'vendor/bootstra...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(238): index->__construct()
+#3 {main}'
+----------------
+2015-05-31 21:53:15
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/index.php(97): index->_sanitizePath(\'addsda\')
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(44): index->_includeFile(\'addsda\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(221): index->__construct()
+#3 {main}'
+----------------
+2015-05-31 21:53:16
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/index.php(97): index->_sanitizePath(\'addsda\')
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(44): index->_includeFile(\'addsda\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(221): index->__construct()
+#3 {main}'
+----------------
+2015-05-31 22:05:27
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/index.php(97): index->_sanitizePath(\'addsda\')
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(44): index->_includeFile(\'addsda\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(221): index->__construct()
+#3 {main}'
+----------------
+2015-05-31 22:25:19
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(46): app\\file::sanitizePath(\'addsda\')
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(47): app\\file::output(\'addsda\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(83): index->__construct()
+#3 {main}'
+----------------
+2015-05-31 22:25:20
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(46): app\\file::sanitizePath(\'addsda\')
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(47): app\\file::output(\'addsda\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(83): index->__construct()
+#3 {main}'
+----------------
+2015-05-31 22:25:20
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(46): app\\file::sanitizePath(\'addsda\')
+#1 /home/tom/code/websiteunderconstruction.dev/index.php(47): app\\file::output(\'addsda\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(83): index->__construct()
+#3 {main}'
+----------------
+2015-05-31 22:50:06
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'/home/tom/code/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'/home/tom/code/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 22:50:07
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'/home/tom/code/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'/home/tom/code/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 22:51:17
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'/home/tom/code/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'/home/tom/code/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 22:51:18
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'/home/tom/code/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'/home/tom/code/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 22:51:18
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'/home/tom/code/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'/home/tom/code/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 22:51:23
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(49): app\\file::sanitizePath(\'/home/tom/code/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'/home/tom/code/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 22:51:41
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(49): app\\file::sanitizePath(\'/home/tom/code/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'/home/tom/code/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 22:52:39
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'/home/tom/code/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'/home/tom/code/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 22:52:39
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'/home/tom/code/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'/home/tom/code/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 22:52:39
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'/home/tom/code/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'/home/tom/code/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 22:53:07
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'/home/tom/code/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'/home/tom/code/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:23:07
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:23:07
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:23:07
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:23:07
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:23:07
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:23:07
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:23:07
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:23:07
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:23:07
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:23:20
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:23:20
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:23:20
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:23:20
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:23:20
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:23:20
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:23:20
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:23:20
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(48): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(61): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:36:50
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:36:50
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:36:50
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-05-31 23:36:50
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:02:25
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:02:25
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:02:25
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:03:09
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:03:09
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:03:10
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:03:21
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:03:21
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:03:21
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:03:48
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:03:48
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:03:49
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:03:56
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:03:56
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:03:56
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:03:59
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:03:59
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:03:59
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:05:37
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:05:37
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------
+2015-06-01 00:05:37
+IP: 176.31.121.184
+AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+File Not Found
+'#0 /home/tom/code/websiteunderconstruction.dev/app/file.php(48): app\\file::sanitizePath(\'templater/html/...\')
+#1 /home/tom/code/websiteunderconstruction.dev/app/templater.php(34): app\\file::output(\'templater/html/...\')
+#2 /home/tom/code/websiteunderconstruction.dev/index.php(51): app\\templater::output()
+#3 /home/tom/code/websiteunderconstruction.dev/index.php(65): index->__construct()
+#4 {main}'
+----------------

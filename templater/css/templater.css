@@ -1,0 +1,49 @@
+/*
+Copyright (C) 2015 Tom Lindley <tom a t tlkr dot co dot uk>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+/* 
+    Created on : 31-May-2015, 22:24:01
+    Author     : Tom Lindley <tom a t tlkr dot co dot uk>
+*/
+
+html, body, .previewIfame, #editorForm {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.editor, .preview {
+    box-sizing: border-box;
+    width: 50%;
+    height: 100%;
+}
+
+.editor {
+    float: left;
+    border-right: solid 2px #000;
+}
+
+.preview {
+    float: right;
+}
+
+/*button {
+    position: fixed;
+    top: 15px;
+    right: 15px;
+}*/

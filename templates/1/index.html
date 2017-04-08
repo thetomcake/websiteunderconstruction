@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<!--
+Copyright (C) 2015 Tom Lindley <tom a t tlkr dot co dot uk>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<html>
+    <head>
+        <title><!--{$WUCTITLE}--></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="plugins/js/jquery-1.11.3.min.js"></script>
+        <script src="plugins/WUC/WUC.js"></script>
+        <link rel="stylesheet" href="plugins/css/main.css">
+        <link rel="stylesheet" href="plugins/css/WUC.css">
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+        
+        <!--{$WUCSCRIPTS}-->
+    </head>
+    <body>
+        <div class="WUCLoader" style="width: 100%; height: 100%; background-color: #000; position: fixed; z-index: 999; vertical-align: middle;">
+            <img src="loader.gif" style="width: 30px; left: 50%; margin-left: -25px; position: fixed; top: 50%; margin-top: -25px;" alt="Loading..." />
+        </div>
+        <div class="container WUCContainer">
+            <!--<h1 class="WUCHeader">--><!--{$WUCHEADER}--><!--</h1>-->
+            <!--<div>
+                <img style="width: 300px;" alt="Under Construction" src="uc.jpg" />
+            </div>-->
+            <div class="WUCCountdown">
+                <span class="WUCDays"></span> Days
+                <span class="WUCHours"></span> Hours
+                <span class="WUCMinutes"></span> Minutes
+                <span class="WUCSeconds"></span> Seconds
+            </div>
+            <img src="rocket.png" class="WUCRocket" style="height: 30px;"/>
+            <img class="WUCBuilder" src="" />
+        </div>
+    </body>
+</html>

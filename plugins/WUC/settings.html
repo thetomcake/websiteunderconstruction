@@ -1,0 +1,51 @@
+<!--
+Copyright (C) 2015 Tom Lindley <tom a t tlkr dot co dot uk>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<div class="WUCSettings container content-wrapper">
+    <div>
+        <h3>Settings</h3>
+    </div>
+    <form method="post" action="download" class="WUCSettingsForm">
+        <!-- ko foreach: scripts -->
+        <input type="hidden" name="scripts[]" value="" data-bind="attr: { value: $data }" />
+        <!-- /ko -->
+        <div data-bind="foreach: { data: modules, afterAdd: afterRender }">
+            <div class="col-md-4">
+                <div>
+                    <h4 class="WUCSettingsCapitize" data-bind="text: $data"></h4>
+                </div>
+                <div>
+                    <div data-bind="foreach: $root.settings">
+                        <!-- ko if: $parentContext.$data === module -->
+                        <table class="WUCSettingsTable">
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <span class="WUCSettingsCapitize" data-bind="text: setting"></span>
+                                    </td>
+                                    <td>
+                                        <input type="text" value="" data-bind="value: value, attr: { name: 'settings[' + $parent + '][' + setting + ']' }" />
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <!-- /ko -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
